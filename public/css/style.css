@@ -1,0 +1,41 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.login-body {
+    width: 100vw;
+    min-height: 100vh;
+    background: rgb(238, 174, 202);
+    background: linear-gradient(0deg, rgba(238, 174, 202, 1) 30%, rgba(254, 209, 199, 1) 100%);
+}
+
+p {
+    margin: 10px 0 !important;
+}
+
+.login-container {
+    width: 400px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.fa-small {
+    font-size: 16px !important;
+}
+
+.btn-float {
+    float: left;
+    margin-right: 10px;
+}
+
+.nav {
+    background-color: #44318D;
+}
+
+.read {
+    background-color: #c38d9e !important;
+}
+
+.table-row:hover {
+    background-color: #f9f9f9 !important;
+}
