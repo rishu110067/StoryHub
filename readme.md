@@ -24,7 +24,8 @@ Link: https://story-hub-0.herokuapp.com/
 
 ## Run in Local:
 
-Add your mongoDB URI and Google OAuth credentials to the config.env file
+To run in your local machine, add your mongoDB URI and Google OAuth credentials to the config.env file, <br> 
+and run the following commands in the project directory
 
 ```
 # Install dependencies
