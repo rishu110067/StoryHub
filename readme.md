@@ -22,9 +22,6 @@ Link: https://story-hub-0.herokuapp.com/
 * view public stories from a specific user
 * mark a story as Favourite and view all your favourite stories
 
-
-
-
 ## Run in Local:
 
 To run in your local machine, add your mongoDB URI and Google OAuth credentials to the config.env file, <br> 
@@ -40,3 +37,24 @@ npm run dev
 # Run in production
 npm start
 ```
+
+
+### Login Page
+<img src="/images/login.png" align="center" width="750px" height="450px"> </img>
+
+### Dashboard
+Click on `+` Button to create a story.
+
+<img src="/images/dashboard.png" align="center" width="750px" height="450px"> </img>
+
+### Add Story Page
+<img src="/images/add-story.png" align="center" width="750px" height="450px"> </img>
+
+### Public Stories Page
+<img src="/images/public-stories.png" align="center" width="750px" height="450px"> </img>
+
+### View a Story
+<img src="/images/story-view.png" align="center" width="750px" height="450px"> </img>
+
+### Favourite Stories Page
+<img src="/images/fav-stories.png" align="center" width="750px" height="450px"> </img>
