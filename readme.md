@@ -2,7 +2,9 @@
 
 StoryHub is a place to create your public and private stories <br> and see stories of other people.
 
-Link: https://story-hub-0.herokuapp.com/
+Link: https://story-hub-0.herokuapp.com/ <br>
+
+Refresh a few times if the page doesn't load.
 
 
 ## Tech Stack used: 
