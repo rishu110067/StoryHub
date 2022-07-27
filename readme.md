@@ -22,6 +22,9 @@ Link: https://story-hub-0.herokuapp.com/
 * view public stories from a specific user
 * mark a story as Favourite and view all your favourite stories
 
+
+
+
 ## Run in Local:
 
 Add your mongoDB URI and Google OAuth credentials to the config.env file
